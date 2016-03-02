@@ -1,0 +1,25 @@
+{
+  "name": "worzzula",
+  "description": "A small word puzzle game",
+  "main": "index.js",
+  "authors": [
+    "Alain Lala"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
